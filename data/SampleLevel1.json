@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "i'm scared of github",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 120255728,
+    "name": "Sevvend Clubstep",
+    "author": "CherryTeam",
+    "creators": ["Maybee", "Nickname", "lGenoxide", "iMinaY", "_ego11", "winchester", "Koshkaht", "WarningGoat", "Vizitek", "Quminy"],
+    "verifier": "Vorten"
+    "verification": "https://youtu.be/TvA8EJTJFCc",
+    "percentToQualify": 100,
+    "password": "Nah",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Voobu",
+            "link": "https://www.youtube.com/watch?v=b5pzjJn3pro",
             "percent": 100,
             "hz": 360
         }
